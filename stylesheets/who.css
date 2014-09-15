@@ -1,0 +1,65 @@
+#pagetwo {
+	position: absolute;
+  	top: 92%;
+}
+
+#house_img {
+	float: right;
+	padding-top: 50%;
+}
+
+#who_title {
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+#people {
+	width: 100%;
+	table-layout: fixed;
+	text-align: center;
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+
+#person {
+	/*width: 16%;*/
+}
+
+#people td {
+	padding-left: 2%;
+	padding-right: 2%;
+}
+
+#people p {
+	margin: 1%;
+}
+
+#companies td {
+	padding-left: 2%;
+	padding-right: 2%;
+}
+
+#company_title {
+	font-weight: bold;
+	font-size: 20px;
+}
+
+#company_wrapper {
+	width: 100%;
+}
+
+#company_wrapper tr td {
+	padding-top: 0;
+}
+
+#company_img {
+	padding: 1%;
+}
+
+#companies p {
+  margin: 1%;
+  float: left;
+  padding-top: 0;
+  margin-top: 0;
+}

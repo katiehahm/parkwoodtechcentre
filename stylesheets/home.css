@@ -1,0 +1,24 @@
+#empowering {
+  background-color: #477725;
+  padding-top: 25%;
+  padding-bottom: 21%;
+  text-align: center;
+  color: white;
+  font-size: 30px;
+}
+
+#home_links {
+  font-size: 20px;
+}
+
+#home_links a:link {
+  color: white;
+}
+
+#home_links a:visited {
+  color: white;
+}
+
+#home_links a:hover {
+  color: white;
+}

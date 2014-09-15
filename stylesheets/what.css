@@ -1,0 +1,34 @@
+#what_title {
+	padding-top: 5%;
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+#pagethree {
+	position: absolute;
+	top: 190%;
+}
+
+#mission {
+	width: 70%;
+	text-align: center;
+	padding-left: 17%;
+}
+
+#description1 {
+	padding: 0;
+	margin: 0;
+}
+
+#main_house_img {
+	padding: 5%;
+}
+
+#build_img {
+	padding: 5%;
+}
+
+#description2 {
+	padding-left: 5%;
+}
